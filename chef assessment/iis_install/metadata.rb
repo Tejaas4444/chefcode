@@ -1,0 +1,10 @@
+name             'iis_install'
+maintainer       'The Authors'
+maintainer_email 'you@example.com'
+license          'all_rights'
+description      'Installs/Configures iis_install'
+long_description 'Installs/Configures iis_install'
+version          '0.1.0'
+depends 'iis'
+depends 'windows_firewall'
+
